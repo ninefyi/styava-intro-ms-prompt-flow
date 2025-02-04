@@ -16,5 +16,5 @@
   "features": {
     "ghcr.io/devcontainers/features/python:1": {}
   },
-  "postCreateCommand": "pip install -r /workspaces/styava-intro-ms-prompt-flow/.devcontainer/requirements.txt"
+  "postCreateCommand": "pip install -r /workspaces/styava-intro-ms-prompt-flow/requirements.txt"
 }
